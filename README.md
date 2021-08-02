@@ -11,3 +11,13 @@
 * Other repositories:
   * Research source code.
   * Templates.
+
+## See also
+
+* [Conference deadlines](https://jackietseng.github.io/conference_call_for_paper/conferences-with-ccf.html).
+* [Top recent arXiv papers](http://www.arxiv-sanity.com/top?timefilter=month&vfilter=all).
+* Blogs:
+  * https://www.offconvex.org/: paper notes.
+  * https://www.inference.vc: paper notes.
+  * [Distill](https://distill.pub): visualizations.
+  * [colah's blog](https://colah.github.io/?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine-learning-blog&utm_content=machine-learning-blogs-to-follow): visualizations.
