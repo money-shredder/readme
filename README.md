@@ -8,8 +8,12 @@
 * [[productivity]](https://github.com/money-shredder/productivity): Tutorials for tools (e.g. git, vscode, ssh, and etc.) that we use in research.
 * [[reviews]](https://github.com/money-shredder/reviews): Peer-review responsibilites. A good place to gain additional experience in paper writing.
 * [paper-*] repositories: LaTeX source code for our paper submissions.
+  * [[lafeat]](https://github.com/money-shredder/paper-lafeat), LAFEAT: Piercing Through Adversarial Defenses with Latent Features, CVPR 2021 Oral.
+  * [[federated]](https://github.com/money-shredder/paper-federated), FedDrop: Trajectory-weighted Dropout for Efficient Federated Learning, NeurIPS 2021 submission.
 * Other repositories:
-  * Research source code.
+  * Research source code:
+    * [[federated]](https://github.com/money-shredder/federated).
+    * [[lafeat]](https://github.com/money-shredder/lafeat).
   * Templates.
 
 ## See also
